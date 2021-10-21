@@ -1,0 +1,7 @@
+P:\Digital\VS\18Yat Leung\Racing Times\Racing Times\bin\Debug\Racing Times.exe.config
+P:\Digital\VS\18Yat Leung\Racing Times\Racing Times\bin\Debug\Racing Times.exe
+P:\Digital\VS\18Yat Leung\Racing Times\Racing Times\bin\Debug\Racing Times.pdb
+P:\Digital\VS\18Yat Leung\Racing Times\Racing Times\obj\Debug\Racing Times.csprojAssemblyReference.cache
+P:\Digital\VS\18Yat Leung\Racing Times\Racing Times\obj\Debug\Racing Times.csproj.CoreCompileInputs.cache
+P:\Digital\VS\18Yat Leung\Racing Times\Racing Times\obj\Debug\Racing Times.exe
+P:\Digital\VS\18Yat Leung\Racing Times\Racing Times\obj\Debug\Racing Times.pdb
